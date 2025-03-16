@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @VedantR12
+- 👋 Hi, I’m Vedant Rode
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python, and javascript
+- 🌱 I’m currently learning Full Stack Web Development 
 - 📫 How to reach me: mail - vedant.rode.2005@gmail.com
 
 <!---
