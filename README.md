@@ -1,7 +1,15 @@
 - 👋 Hi, I’m Vedant Rode
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Full Stack Web Development 
-- 📫 reach me at - vedant.rode.2005@gmail.com
+#Education -
+Pursuing BSc. in Computer Science from S.B.E.S. College of Science, Chh. Sambhajinagar.
+
+#Skills -
+Languages - I can communicate in English, Hindi and Marathi.
+
+Programming Languages - C, C++, JavaScript, HTML, CSS, PHP.
+
+Database - MySQL.
+
+Miscellaneous - Git, Github, Networking.
 
 <!---
 VedantR12/VedantR12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
