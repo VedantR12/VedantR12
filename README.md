@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Vedant Rode
-#Education -
+
+  
+- #Education -
 Pursuing BSc. in Computer Science from S.B.E.S. College of Science, Chh. Sambhajinagar.
 
-#Skills -
+- #Skills -
 Languages - I can communicate in English, Hindi and Marathi.
 
 Programming Languages - C, C++, JavaScript, HTML, CSS, PHP.
