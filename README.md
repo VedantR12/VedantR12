@@ -1,6 +1,6 @@
 #Education
 
-Pursuing BSc. in Computer Science from S.B.E.S. College of Science, Chh. Sambhajinagar.
+- Pursuing BSc. in Computer Science from S.B.E.S. College of Science, Chh. Sambhajinagar.
 
 #Skills
   
