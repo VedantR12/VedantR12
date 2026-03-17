@@ -6,9 +6,9 @@
   
 - Languages - I can communicate in English, Hindi and Marathi.
 
-- Programming Languages - C, C++, JavaScript, HTML, CSS, PHP.
+- Programming Languages - Python, C, C++, JavaScript, HTML, CSS, PHP.
 
-- Database - MySQL.
+- Database - MySQL, PostgreSQL.
 
 - Miscellaneous - Git, Github, Networking.
 
