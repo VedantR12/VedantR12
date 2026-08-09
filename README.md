@@ -1,4 +1,4 @@
-# Hi, I'm Vedant 👋
+# Hi, I'm Vedant
 
 ### AI Engineer in the making · Software Engineering · Intelligent Systems
 
